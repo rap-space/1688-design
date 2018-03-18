@@ -1,3 +1,11 @@
+---
+order: 15
+title: Tags
+subtitle: 标签
+groupOrder: 2
+group: Components
+---
+
 # Tags 标签
 
 ### 

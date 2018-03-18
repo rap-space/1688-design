@@ -1,3 +1,11 @@
+---
+order: 13
+title: Slider
+subtitle: 轮播
+groupOrder: 2
+group: Components
+---
+
 # Slider 轮播
 
 ### 

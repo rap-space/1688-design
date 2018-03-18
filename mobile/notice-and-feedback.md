@@ -1,4 +1,12 @@
-# Notice&Feedback 提示和反馈
+---
+order: 11
+title: Notice & Feedback
+subtitle: 提示和反馈
+groupOrder: 2
+group: Components
+---
+
+# Notice & Feedback 提示和反馈
 
 ### 
 

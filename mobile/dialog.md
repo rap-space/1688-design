@@ -1,3 +1,11 @@
+---
+order: 5
+title: Dialog
+subtitle: 对话框
+groupOrder: 2
+group: Components
+---
+
 # Dialog 对话框
 
 ### 

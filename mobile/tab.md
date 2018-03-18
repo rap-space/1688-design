@@ -1,3 +1,11 @@
+---
+order: 14
+title: Tab
+subtitle: 选项卡
+groupOrder: 2
+group: Components
+---
+
 # Tab 选项卡
 
 ### 

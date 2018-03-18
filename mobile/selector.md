@@ -1,3 +1,11 @@
+---
+order: 12
+title: Selector
+subtitle: 选择控制器
+groupOrder: 2
+group: Components
+---
+
 # Selector 选择控制器
 
 ### 
