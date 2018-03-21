@@ -9,7 +9,7 @@
 * [Icon 图标（待补充）](./mobile/icon.md)
 * [List 列表](./mobile/list.md)
 * [Loading 进度](./mobile/loading.md)
-* [Menu 菜单（待补充）](./mobile/menu.md)
+* [Menu 菜单](./mobile/menu.md)
 * [Navigation](./mobile/navigation.md)
 * [Notice & Feedback 提示和反馈](./mobile/notice-and-feedback.md)
 * [Selector 选择控制器](./mobile/selector.md)
