@@ -1,5 +1,6 @@
 # Summary
 
+* [Introduction](README.md)
 * [Color 颜色](./mobile/color.md)
 * [Font 字体](./mobile/font.md)
 * [Line 线](./mobile/line.md)
@@ -7,9 +8,9 @@
 * [Dialog 对话框](./mobile/dialog.md)
 * [Icon 图标（待补充）](./mobile/icon.md)
 * [List 列表](./mobile/list.md)
-* [Loading 进度（待补充）](./mobile/loading.md)
+* [Loading 进度](./mobile/loading.md)
 * [Menu 菜单（待补充）](./mobile/menu.md)
-* [Navigation 导航](./mobile/navigation.md)
+* [Loading 进度（待补充）](./mobile/loading.md)
 * [Notice & Feedback 提示和反馈](./mobile/notice-and-feedback.md)
 * [Selector 选择控制器](./mobile/selector.md)
 * [Slider 轮播](./mobile/slider.md)
