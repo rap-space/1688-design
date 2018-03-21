@@ -10,7 +10,7 @@
 * [List 列表](./mobile/list.md)
 * [Loading 进度](./mobile/loading.md)
 * [Menu 菜单（待补充）](./mobile/menu.md)
-* [Loading 进度（待补充）](./mobile/loading.md)
+* [Navigation](./mobile/navigation.md)
 * [Notice & Feedback 提示和反馈](./mobile/notice-and-feedback.md)
 * [Selector 选择控制器](./mobile/selector.md)
 * [Slider 轮播](./mobile/slider.md)
