@@ -40,17 +40,21 @@ group: Components
 
 项卡中的一组按钮，用于在下拉菜单中显示与选项卡相关的少量命令和选项。
 
-![](https://img.alicdn.com/tfs/TB1ggK2e9CWBuNjy0FhXXb6EVXa-900-600.png)
+![](https://img.alicdn.com/tfs/TB1Ohq8e9CWBuNjy0FhXXb6EVXa-900-600.png)
+
+
 
 ##### 2. 操作菜单 / Action Menu
 
 包含与选中对象或程序模式相关的少量命令。
 
-![](https://img.alicdn.com/tfs/TB1pSvxe49YBuNjy0FfXXXIsVXa-900-775.png)
+![](https://img.alicdn.com/tfs/TB1Ozfpe21TBuNjy0FjXXajyXXa-900-775.png)
 
 ##### 3. 动态分析
 
 根据所触发控件的位置，菜单出现的位置不同，基本规则为出现在页面中央位置，就下不就上原则。
 
-![](https://img.alicdn.com/tfs/TB1ESvxe49YBuNjy0FfXXXIsVXa-900-698.png)
+![](https://img.alicdn.com/tfs/TB1zdDgeVOWBuNjy0FiXXXFxVXa-900-698.png)
+
+
 
