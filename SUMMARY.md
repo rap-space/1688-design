@@ -16,5 +16,5 @@
 * [Slider 轮播](./mobile/slider.md)
 * [Tab 选项卡](./mobile/tab.md)
 * [Tags 标签](./mobile/tags.md)
-* [Textfield 文本框（待补充）](./mobile/textfield.md)
+* [Textfield 文本框](./mobile/textfield.md)
 
