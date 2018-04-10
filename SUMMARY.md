@@ -6,7 +6,7 @@
 * [Line 线](./mobile/line.md)
 * [Button 按钮](./mobile/button.md)
 * [Dialog 对话框](./mobile/dialog.md)
-* [Icon 图标（待补充）](./mobile/icon.md)
+* [Icon 图标](./mobile/icon.md)
 * [List 列表](./mobile/list.md)
 * [Loading 进度](./mobile/loading.md)
 * [Menu 菜单](./mobile/menu.md)
